@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-cors==4.0.1
+tensorflow==2.16.1
+pillow==10.3.0
+numpy==1.26.4
+requests==2.32.3
+# No extra SDK needed — Gemini is called via REST API using 'requests'
